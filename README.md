@@ -7,8 +7,6 @@
 - 💬 Ask me about spearfishing in the atlantic seas, I'll be happy to support you ⚓️.
 - ⚡ Fun fact: I played guitar for 3 months, without tuning it. Once I discover how to tune it, I realize Bob Marley has nice vibes...
 
----
-
 ### Go-to weapons 🏹
 
 ![python][python]
@@ -17,7 +15,7 @@
 ![Plotly][pl]
 ![TensorFlow][tensorflow]
 
----
+## <a href="https://app.daily.dev/mjdaoudi"><img src="https://api.daily.dev/devcards/8f2ec2d5c64846f88552b0b95c466124.png?r=rxm" width="400" alt="Mehdi Jdaoudi's Dev Card"/></a>
 
 ### Current projects 👨🏽‍💻
 
