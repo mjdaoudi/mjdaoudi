@@ -15,7 +15,7 @@
 ![Plotly][pl]
 ![TensorFlow][tensorflow]
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mjdaoudi/mjdaoudi/blob/master/devcard.svg" width="400" alt="Mehdi's Dev Card"/></a>
+<a href=""><img src="https://github.com/mjdaoudi/mjdaoudi/blob/master/devcard.svg" width="400" alt="Mehdi's Dev Card"/></a>
 
 ### Current projects 👨🏽‍💻
 
